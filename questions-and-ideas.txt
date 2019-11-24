@@ -1,0 +1,30 @@
+
+The to do list.
+
+Command-line app
+
+separating files. folders. code.
+
+proper commenting. do we wanna do automated testing? 
+
+list items
+
+save items (to a file in the file system)
+
+when this runs, if any item is overdue, list them and notify user
+
+-------------------------------------------------
+
+Future options
+
+1. make this into an application with a front and a back end
+
+2. notify users in real time when something is about to be due
+
+3. recurring items
+
+4. Option to turn off overdue notification
+
+5. categories? categorize tasks
+
+6. 
